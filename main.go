@@ -5,10 +5,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
-	"strings"
 	"time"
-
-	"github.com/sevlyar/go-daemon"
 )
 
 type reportInfo struct {
